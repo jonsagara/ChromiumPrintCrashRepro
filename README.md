@@ -1,3 +1,5 @@
+> 2021-05-06: the Chromium team says [this is fixed](https://bugs.chromium.org/p/chromium/issues/detail?id=1205720#c6) in Chrome Canary, and the fix will be merged back to other channels. I'm archiving this repository.
+
 # Chromium on macOS Print Crash Repro
 
 This site is a bare bones reproduction of a Chromium crash on macOS. It consists of:
